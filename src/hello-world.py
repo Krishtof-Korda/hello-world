@@ -1,7 +1,5 @@
-#Python Hello World 3.7
+#Python Hello World
 
-
-def hello_world():
-
+def hello():
   hello = "Hello World\n\n"
   print(hello)
